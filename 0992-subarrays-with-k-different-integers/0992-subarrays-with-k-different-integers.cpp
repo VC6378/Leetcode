@@ -1,21 +1,22 @@
 class Solution {
 public:
     
-    int atmst(vector<int> &nums,int n,int k){
+    int atmst(vector<int> &nums,int k){
+        int n=nums.size();
         unordered_map<int,int> mp;
         int i=0;
         int j=0;
+        int unique=0;
         int ans=0;
-        int cnt=0;
         while(j<n){
             if(mp.find(nums[j])==mp.end()){
-                cnt++;
+                unique++;
             }
             mp[nums[j]]++;
-            while(cnt>k){
+            while(unique>k){
                 mp[nums[i]]--;
                 if(mp[nums[i]]==0){
-                    cnt--;
+                    unique--;
                     mp.erase(nums[i]);
                 }
                 i++;
@@ -28,8 +29,8 @@ public:
     
     int subarraysWithKDistinct(vector<int>& nums, int k) {
         int n=nums.size();
-        int f=atmst(nums,n,k);
-        int s=atmst(nums,n,k-1);
-        return f-s;
+        int first=atmst(nums,k);
+        int second=atmst(nums,k-1);
+        return first-second;
     }
 };
