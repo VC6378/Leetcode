@@ -52,6 +52,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/VC6378/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/VC6378/Leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/VC6378/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/VC6378/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/VC6378/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -64,6 +65,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/VC6378/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/VC6378/Leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/VC6378/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/VC6378/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/VC6378/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/VC6378/Leetcode/tree/master/1036-rotting-oranges) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/VC6378/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -99,6 +101,7 @@
 | [0207-course-schedule](https://github.com/VC6378/Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/VC6378/Leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/VC6378/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/VC6378/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/VC6378/Leetcode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/VC6378/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Greedy
@@ -154,4 +157,5 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/VC6378/Leetcode/tree/master/0207-course-schedule) |
+| [0820-find-eventual-safe-states](https://github.com/VC6378/Leetcode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
