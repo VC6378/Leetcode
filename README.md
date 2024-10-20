@@ -7,6 +7,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VC6378/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VC6378/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0152-maximum-product-subarray](https://github.com/VC6378/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0542-01-matrix](https://github.com/VC6378/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/VC6378/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/VC6378/Leetcode/tree/master/1036-rotting-oranges) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/VC6378/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/VC6378/Leetcode/tree/master/0101-symmetric-tree) |
+| [0542-01-matrix](https://github.com/VC6378/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/VC6378/Leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/VC6378/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/VC6378/Leetcode/tree/master/0733-flood-fill) |
@@ -82,6 +84,7 @@
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/VC6378/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0542-01-matrix](https://github.com/VC6378/Leetcode/tree/master/0542-01-matrix) |
 | [2755-extra-characters-in-a-string](https://github.com/VC6378/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Graph
 |  |
@@ -128,6 +131,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/VC6378/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/VC6378/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/VC6378/Leetcode/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
