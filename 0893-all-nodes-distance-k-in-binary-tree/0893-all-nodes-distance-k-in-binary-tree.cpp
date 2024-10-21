@@ -9,7 +9,6 @@
  */
 class Solution {
 public:
-
     void makPar(unordered_map<TreeNode*,TreeNode*> &mp,TreeNode*root,TreeNode*target){
         queue<TreeNode*> q;
         q.push(root);
@@ -42,16 +41,16 @@ public:
                 TreeNode *node=q.front();
                 q.pop();
                 if(node->left && !vis[node->left]){
-                    vis[node->left]=1;
                     q.push(node->left);
+                    vis[node->left]=1;
                 }
                 if(node->right && !vis[node->right]){
-                    vis[node->right]=1;
                     q.push(node->right);
+                    vis[node->right]=1;
                 }
                 if(mp[node] && !vis[mp[node]]){
-                    vis[mp[node]]=1;
                     q.push(mp[node]);
+                    vis[mp[node]]=1;
                 }
             }
         }
