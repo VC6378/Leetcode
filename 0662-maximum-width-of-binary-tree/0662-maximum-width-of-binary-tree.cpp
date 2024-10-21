@@ -35,7 +35,6 @@ public:
                     q.push({node->right,(long long)2*currid+2});
                 }
             }
-
             ans=max(ans,second-first+1);
         }
         return ans;
