@@ -12,12 +12,12 @@
 class Solution {
 public:
 
-    bool f(TreeNode *left, TreeNode *right){
+    bool f(TreeNode *left,TreeNode*right){
         if(left==NULL or right==NULL){
             return (left==right);
         }
         if(left->val!=right->val) return false;
-        return f(left->left,right->right) && f(left->right,right->left);
+        return f(left->left,right->right) and f(left->right,right->left);
     }
 
     bool isSymmetric(TreeNode* root) {
