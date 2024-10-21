@@ -25,12 +25,14 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VC6378/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/VC6378/Leetcode/tree/master/0127-word-ladder) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/VC6378/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VC6378/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/VC6378/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2755-extra-characters-in-a-string](https://github.com/VC6378/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/VC6378/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Sorting
 |  |
 | ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VC6378/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/VC6378/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Tree
 |  |
@@ -50,6 +52,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/VC6378/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/VC6378/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/VC6378/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VC6378/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -72,6 +75,7 @@
 | [0820-find-eventual-safe-states](https://github.com/VC6378/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/VC6378/Leetcode/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/VC6378/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VC6378/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/VC6378/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
@@ -92,6 +96,7 @@
 | [0820-find-eventual-safe-states](https://github.com/VC6378/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/VC6378/Leetcode/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/VC6378/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VC6378/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/VC6378/Leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/VC6378/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/VC6378/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -114,6 +119,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/VC6378/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/VC6378/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/VC6378/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VC6378/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
