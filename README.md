@@ -7,6 +7,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VC6378/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VC6378/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0152-maximum-product-subarray](https://github.com/VC6378/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0496-next-greater-element-i](https://github.com/VC6378/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VC6378/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/VC6378/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/VC6378/Leetcode/tree/master/0733-flood-fill) |
@@ -26,6 +27,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VC6378/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VC6378/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/VC6378/Leetcode/tree/master/0127-word-ladder) |
+| [0496-next-greater-element-i](https://github.com/VC6378/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VC6378/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/VC6378/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VC6378/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -160,6 +162,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/VC6378/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/VC6378/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VC6378/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/VC6378/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VC6378/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VC6378/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1197-parsing-a-boolean-expression](https://github.com/VC6378/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -278,6 +281,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/VC6378/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VC6378/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VC6378/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
