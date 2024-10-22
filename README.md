@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/VC6378/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VC6378/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/VC6378/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/VC6378/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/VC6378/Leetcode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/VC6378/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VC6378/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -277,6 +278,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/VC6378/Leetcode/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/VC6378/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0542-01-matrix](https://github.com/VC6378/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/VC6378/Leetcode/tree/master/0733-flood-fill) |
@@ -359,4 +361,8 @@
 | [0410-split-array-largest-sum](https://github.com/VC6378/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/VC6378/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/VC6378/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/VC6378/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
