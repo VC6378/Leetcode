@@ -264,6 +264,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/VC6378/Leetcode/tree/master/0206-reverse-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/VC6378/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 ## Topological Sort
 |  |
@@ -289,6 +290,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/VC6378/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0206-reverse-linked-list](https://github.com/VC6378/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
