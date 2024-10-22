@@ -12,6 +12,7 @@
 | [0152-maximum-product-subarray](https://github.com/VC6378/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VC6378/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/VC6378/Leetcode/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/VC6378/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/VC6378/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VC6378/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/VC6378/Leetcode/tree/master/0542-01-matrix) |
@@ -194,6 +195,7 @@
 | [0085-maximal-rectangle](https://github.com/VC6378/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VC6378/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/VC6378/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/VC6378/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/VC6378/Leetcode/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/VC6378/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/VC6378/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -215,6 +217,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/VC6378/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [3195-separate-black-and-white-balls](https://github.com/VC6378/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/VC6378/Leetcode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 ## Ordered Set
@@ -312,6 +315,7 @@
 | [0162-find-peak-element](https://github.com/VC6378/Leetcode/tree/master/0162-find-peak-element) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VC6378/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VC6378/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0410-split-array-largest-sum](https://github.com/VC6378/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/VC6378/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VC6378/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/VC6378/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -342,6 +346,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/VC6378/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/VC6378/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/VC6378/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
