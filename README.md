@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/VC6378/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/VC6378/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/VC6378/Leetcode/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VC6378/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/VC6378/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/VC6378/Leetcode/tree/master/0048-rotate-image) |
@@ -62,6 +63,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/VC6378/Leetcode/tree/master/0015-3sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VC6378/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/VC6378/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Tree
@@ -264,6 +266,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/VC6378/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/VC6378/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/VC6378/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/VC6378/Leetcode/tree/master/0151-reverse-words-in-a-string) |
