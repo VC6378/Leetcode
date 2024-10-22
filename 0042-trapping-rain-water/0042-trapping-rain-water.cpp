@@ -2,8 +2,8 @@ class Solution {
 public:
     int trap(vector<int>& height) {
         int n=height.size();
-        vector<int> mxr(n);
         vector<int> mxl(n);
+        vector<int> mxr(n);
         mxl[0]=height[0];
         for(int i=1;i<n;i++){
             mxl[i]=max(height[i],mxl[i-1]);
@@ -21,5 +21,6 @@ public:
             sum+=water[i];
         }
         return sum;
+
     }
 };
