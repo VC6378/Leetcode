@@ -14,6 +14,7 @@
 | [0542-01-matrix](https://github.com/VC6378/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/VC6378/Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/VC6378/Leetcode/tree/master/0735-asteroid-collision) |
+| [0792-binary-search](https://github.com/VC6378/Leetcode/tree/master/0792-binary-search) |
 | [0854-making-a-large-island](https://github.com/VC6378/Leetcode/tree/master/0854-making-a-large-island) |
 | [0966-binary-subarrays-with-sum](https://github.com/VC6378/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1036-rotting-oranges](https://github.com/VC6378/Leetcode/tree/master/1036-rotting-oranges) |
@@ -306,6 +307,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/VC6378/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VC6378/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/VC6378/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0792-binary-search](https://github.com/VC6378/Leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/VC6378/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VC6378/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
