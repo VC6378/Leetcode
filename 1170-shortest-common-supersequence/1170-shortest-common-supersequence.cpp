@@ -1,7 +1,6 @@
 class Solution {
 public:
     string shortestCommonSupersequence(string one, string two) {
-        string ans="";
         int m=one.size();
         int n=two.size();
         vector<vector<int>> dp(m+1,vector<int>(n+1,0));
@@ -15,9 +14,10 @@ public:
                 }
             }
         }
-        
+
         int i=m;
         int j=n;
+        string ans="";
         while(i>0 && j>0){
             if(one[i-1]==two[j-1]){
                 ans+=one[i-1];
@@ -33,16 +33,17 @@ public:
                 j--;
             }
         }
-        
+
         while(i>0){
             ans+=one[i-1];
             i--;
         }
+
         while(j>0){
             ans+=two[j-1];
             j--;
         }
-        
+
         reverse(ans.begin(),ans.end());
         return ans;
     }
