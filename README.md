@@ -226,6 +226,7 @@
 | [0085-maximal-rectangle](https://github.com/VC6378/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VC6378/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VC6378/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/VC6378/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/VC6378/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/VC6378/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/VC6378/Leetcode/tree/master/0542-01-matrix) |
@@ -270,6 +271,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/VC6378/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/VC6378/Leetcode/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/VC6378/Leetcode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/VC6378/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/VC6378/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VC6378/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1197-parsing-a-boolean-expression](https://github.com/VC6378/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -422,6 +424,7 @@
 | [0040-combination-sum-ii](https://github.com/VC6378/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/VC6378/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/VC6378/Leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/VC6378/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/VC6378/Leetcode/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
