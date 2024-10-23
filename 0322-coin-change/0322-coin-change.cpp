@@ -2,7 +2,7 @@ class Solution {
 public:
 
     int f(vector<int> &coins,int target,int ind,vector<vector<int>> &dp){
-        if(target==0) 1;
+        if(target==0) return 0;
         if(ind==0){
             if(target%(coins[ind])==0) return target/coins[ind];
             else return 1e9;
