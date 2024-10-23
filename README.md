@@ -11,6 +11,7 @@
 | [0042-trapping-rain-water](https://github.com/VC6378/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/VC6378/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/VC6378/Leetcode/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/VC6378/Leetcode/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/VC6378/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/VC6378/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VC6378/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -413,4 +414,9 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/VC6378/Leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/VC6378/Leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/VC6378/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
