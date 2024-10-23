@@ -1,10 +1,7 @@
 class MedianFinder {
 public:
-    
     priority_queue<int> s;
     priority_queue<int,vector<int>,greater<int>> g;
-    
-    
     MedianFinder() {
         
     }
@@ -24,9 +21,7 @@ public:
             }
         }
         else{
-            if(num<s.top()){
-                s.push(num);
-            }
+            if(num<s.top()) s.push(num);
             else{
                 g.push(num);
                 s.push(g.top());
@@ -37,7 +32,7 @@ public:
     
     double findMedian() {
         if(s.size()==g.size()){
-            return (double)((s.top()+g.top())/2.0);
+            return(double)((s.top()+g.top())/2.0);
         }
         else return s.top();
     }
