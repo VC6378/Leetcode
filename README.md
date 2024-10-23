@@ -215,6 +215,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/VC6378/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/VC6378/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/VC6378/Leetcode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/VC6378/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -262,6 +263,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VC6378/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/VC6378/Leetcode/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/VC6378/Leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/VC6378/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VC6378/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -407,4 +409,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VC6378/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/VC6378/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
