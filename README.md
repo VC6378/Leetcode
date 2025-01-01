@@ -51,6 +51,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VC6378/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/VC6378/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/VC6378/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/VC6378/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/VC6378/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2227-sum-of-subarray-ranges](https://github.com/VC6378/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/VC6378/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
