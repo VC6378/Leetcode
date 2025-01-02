@@ -251,6 +251,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/VC6378/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/VC6378/Leetcode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/VC6378/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0392-is-subsequence](https://github.com/VC6378/Leetcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/VC6378/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/VC6378/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/VC6378/Leetcode/tree/master/0518-coin-change-ii) |
@@ -304,6 +305,7 @@
 | [0131-palindrome-partitioning](https://github.com/VC6378/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/VC6378/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VC6378/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0392-is-subsequence](https://github.com/VC6378/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/VC6378/Leetcode/tree/master/0443-string-compression) |
 | [0583-delete-operation-for-two-strings](https://github.com/VC6378/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VC6378/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -334,6 +336,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/VC6378/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/VC6378/Leetcode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/VC6378/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0392-is-subsequence](https://github.com/VC6378/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/VC6378/Leetcode/tree/master/0443-string-compression) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VC6378/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1894-merge-strings-alternately](https://github.com/VC6378/Leetcode/tree/master/1894-merge-strings-alternately) |
