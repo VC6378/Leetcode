@@ -66,6 +66,7 @@
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/VC6378/Leetcode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/VC6378/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3639-zero-array-transformation-i](https://github.com/VC6378/Leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3643-zero-array-transformation-ii](https://github.com/VC6378/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -421,6 +422,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/VC6378/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VC6378/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/VC6378/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [3643-zero-array-transformation-ii](https://github.com/VC6378/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -452,6 +454,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/VC6378/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/VC6378/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3639-zero-array-transformation-i](https://github.com/VC6378/Leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3643-zero-array-transformation-ii](https://github.com/VC6378/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Math
 |  |
 | ------- |
