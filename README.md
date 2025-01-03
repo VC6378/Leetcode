@@ -65,6 +65,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/VC6378/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/VC6378/Leetcode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/VC6378/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3591-shift-distance-between-two-strings](https://github.com/VC6378/Leetcode/tree/master/3591-shift-distance-between-two-strings) |
 | [3639-zero-array-transformation-i](https://github.com/VC6378/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/VC6378/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
@@ -323,6 +324,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/VC6378/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/VC6378/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/VC6378/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3591-shift-distance-between-two-strings](https://github.com/VC6378/Leetcode/tree/master/3591-shift-distance-between-two-strings) |
 ## Counting
 |  |
 | ------- |
@@ -453,6 +455,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/VC6378/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/VC6378/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/VC6378/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3591-shift-distance-between-two-strings](https://github.com/VC6378/Leetcode/tree/master/3591-shift-distance-between-two-strings) |
 | [3639-zero-array-transformation-i](https://github.com/VC6378/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/VC6378/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Math
