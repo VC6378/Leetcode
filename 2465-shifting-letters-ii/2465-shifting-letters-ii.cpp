@@ -18,7 +18,7 @@ public:
         }
 
         for (int i = 0; i < n; ++i) {
-            int netShift = (shift[i] % 26+26)%26;
+            int netShift = (shift[i] % 26 +26)%26;
             s[i] = 'a' + (s[i] - 'a' + netShift) % 26;
         }
 
