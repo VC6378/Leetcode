@@ -100,6 +100,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/VC6378/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2755-extra-characters-in-a-string](https://github.com/VC6378/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/VC6378/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/VC6378/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/VC6378/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3678-design-task-manager](https://github.com/VC6378/Leetcode/tree/master/3678-design-task-manager) |
 | [3699-count-special-subsequences](https://github.com/VC6378/Leetcode/tree/master/3699-count-special-subsequences) |
@@ -353,6 +354,7 @@
 | [3195-separate-black-and-white-balls](https://github.com/VC6378/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/VC6378/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/VC6378/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/VC6378/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3591-shift-distance-between-two-strings](https://github.com/VC6378/Leetcode/tree/master/3591-shift-distance-between-two-strings) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/VC6378/Leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/VC6378/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -362,6 +364,7 @@
 | [0347-top-k-frequent-elements](https://github.com/VC6378/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1502-construct-k-palindrome-strings](https://github.com/VC6378/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/VC6378/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/VC6378/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/VC6378/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Two Pointers
 |  |
