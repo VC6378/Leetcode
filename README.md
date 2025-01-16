@@ -180,6 +180,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VC6378/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/VC6378/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/VC6378/Leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/VC6378/Leetcode/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -208,6 +209,7 @@
 | [1442-number-of-operations-to-make-network-connected](https://github.com/VC6378/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/VC6378/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/VC6378/Leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/VC6378/Leetcode/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -306,6 +308,7 @@
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/VC6378/Leetcode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/VC6378/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/VC6378/Leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/VC6378/Leetcode/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Greedy
 |  |
 | ------- |
@@ -428,6 +431,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/VC6378/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/VC6378/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/VC6378/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/VC6378/Leetcode/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -473,6 +477,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VC6378/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/VC6378/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [3643-zero-array-transformation-ii](https://github.com/VC6378/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/VC6378/Leetcode/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Monotonic Stack
 |  |
 | ------- |
