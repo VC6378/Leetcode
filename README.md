@@ -77,6 +77,7 @@
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/VC6378/Leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3639-zero-array-transformation-i](https://github.com/VC6378/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/VC6378/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3677-maximum-amount-of-money-robot-can-earn](https://github.com/VC6378/Leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3699-count-special-subsequences](https://github.com/VC6378/Leetcode/tree/master/3699-count-special-subsequences) |
 | [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/VC6378/Leetcode/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
 ## Hash Table
@@ -288,6 +289,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/VC6378/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/VC6378/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2755-extra-characters-in-a-string](https://github.com/VC6378/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [3677-maximum-amount-of-money-robot-can-earn](https://github.com/VC6378/Leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/VC6378/Leetcode/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
 ## Graph
 |  |
@@ -406,6 +408,7 @@
 | [0854-making-a-large-island](https://github.com/VC6378/Leetcode/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/VC6378/Leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/VC6378/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [3677-maximum-amount-of-money-robot-can-earn](https://github.com/VC6378/Leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 ## Recursion
 |  |
 | ------- |
