@@ -79,6 +79,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/VC6378/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/VC6378/Leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3699-count-special-subsequences](https://github.com/VC6378/Leetcode/tree/master/3699-count-special-subsequences) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/VC6378/Leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/VC6378/Leetcode/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
 ## Hash Table
 |  |
@@ -409,6 +410,7 @@
 | [1036-rotting-oranges](https://github.com/VC6378/Leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/VC6378/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/VC6378/Leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/VC6378/Leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Recursion
 |  |
 | ------- |
@@ -485,6 +487,7 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/VC6378/Leetcode/tree/master/0735-asteroid-collision) |
 | [3625-stone-removal-game](https://github.com/VC6378/Leetcode/tree/master/3625-stone-removal-game) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/VC6378/Leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Sliding Window
 |  |
 | ------- |
