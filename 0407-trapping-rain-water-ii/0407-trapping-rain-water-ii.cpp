@@ -5,16 +5,20 @@ public:
         int n = height.size();
         int m = height[0].size();
 
+        // pair<int, pair<int, int>> 
+        //{height, {r, c}}
         priority_queue<pair<int, pair<int, int>>, vector<pair<int, pair<int, int>>>, greater<pair<int, pair<int, int>>>> pq;
 
         vector<vector<int>> vis(n, vector<int>(m));
 
+        //first and last column
         for(int i=0; i<n; i++){
             vis[i][0] = 1;
             vis[i][m-1] = 1;
             pq.push({height[i][0], {i, 0}});
             pq.push({height[i][m-1], {i, m-1}});
         }
+        //first and last row
         for(int i=0; i<m; i++){
             vis[0][i]=1;
             vis[n-1][i]=1;
