@@ -61,6 +61,7 @@
 | [1524-string-matching-in-an-array](https://github.com/VC6378/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/VC6378/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/VC6378/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1876-map-of-highest-peak](https://github.com/VC6378/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/VC6378/Leetcode/tree/master/2145-grid-game) |
 | [2227-sum-of-subarray-ranges](https://github.com/VC6378/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/VC6378/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -214,6 +215,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/VC6378/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/VC6378/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/VC6378/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/VC6378/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/VC6378/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/VC6378/Leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/VC6378/Leetcode/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
@@ -422,6 +424,7 @@
 | [1036-rotting-oranges](https://github.com/VC6378/Leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/VC6378/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/VC6378/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/VC6378/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/VC6378/Leetcode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/VC6378/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/VC6378/Leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
