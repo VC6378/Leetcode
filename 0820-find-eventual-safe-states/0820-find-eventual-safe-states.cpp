@@ -1,37 +1,28 @@
 class Solution {
 public:
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
-        int v=graph.size();
-        vector<int> indegree(v,0);
-        vector<int> adj[v];
-        for(int i=0;i<v;i++){
-            for(auto it:graph[i]){
-                adj[it].push_back(i);
-                indegree[i]++;
-            }
-        }
-        vector<int> ans;
+        int n = graph.size();
+        vector<int> state(n); // 0: unvisited, 1: visiting, 2: safe
+        vector<int> safe;
 
-        queue<int> q;
-        for(int i=0;i<v;i++){
-            if(indegree[i]==0){
-                q.push(i);
-            }
-        }
+        for (int i = 0; i < n; ++i) 
+            if (dfs(graph, i, state)) 
+                safe.push_back(i); // Collect safe nodes
+        
+        return safe;
+    }
 
-        while(!q.empty()){
-            int node=q.front();
-            q.pop();
-            ans.push_back(node);
-            for(auto it:adj[node]){
-                indegree[it]--;
-                if(indegree[it]==0){
-                    q.push(it);
-                }
-            }
-        }
-        sort(ans.begin(),ans.end());
-        return ans;
-
+private:
+    bool dfs(vector<vector<int>>& graph, int node, vector<int>& state) {
+        if (state[node] > 0) return state[node] == 2; // Return true if already safe
+        
+        state[node] = 1; // Mark as visiting
+        
+        for (int next : graph[node]) 
+            if (state[next] == 1 || !dfs(graph, next, state)) 
+                return false; // Cycle detected
+        
+        state[node] = 2; // Mark as safe
+        return true;
     }
 };
