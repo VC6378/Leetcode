@@ -9,12 +9,13 @@ public:
             return;
         }
         
+        f(candidates,target,ans,temp,ind+1);
         if(candidates[ind]<=target){
             temp.push_back(candidates[ind]);
             f(candidates,target-candidates[ind],ans,temp,ind);
             temp.pop_back();
         }
-        f(candidates,target,ans,temp,ind+1);
+        
     }
 
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
