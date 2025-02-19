@@ -17,6 +17,7 @@
 | [0063-unique-paths-ii](https://github.com/VC6378/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/VC6378/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/VC6378/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/VC6378/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/VC6378/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/VC6378/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/VC6378/Leetcode/tree/master/0090-subsets-ii) |
@@ -160,6 +161,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/VC6378/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/VC6378/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/VC6378/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/VC6378/Leetcode/tree/master/0100-same-tree) |
@@ -359,6 +361,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/VC6378/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VC6378/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/VC6378/Leetcode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/VC6378/Leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/VC6378/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/VC6378/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/VC6378/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -432,6 +435,7 @@
 | [0048-rotate-image](https://github.com/VC6378/Leetcode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/VC6378/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/VC6378/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/VC6378/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/VC6378/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/VC6378/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/VC6378/Leetcode/tree/master/0542-01-matrix) |
@@ -585,6 +589,7 @@
 | [0040-combination-sum-ii](https://github.com/VC6378/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/VC6378/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/VC6378/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/VC6378/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/VC6378/Leetcode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/VC6378/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/VC6378/Leetcode/tree/master/0131-palindrome-partitioning) |
