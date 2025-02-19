@@ -293,6 +293,7 @@
 | [0131-palindrome-partitioning](https://github.com/VC6378/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/VC6378/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/VC6378/Leetcode/tree/master/0213-house-robber-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/VC6378/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/VC6378/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/VC6378/Leetcode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/VC6378/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -362,6 +363,7 @@
 | [0127-word-ladder](https://github.com/VC6378/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/VC6378/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/VC6378/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0241-different-ways-to-add-parentheses](https://github.com/VC6378/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VC6378/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/VC6378/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/VC6378/Leetcode/tree/master/0443-string-compression) |
@@ -448,6 +450,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/VC6378/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/VC6378/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/VC6378/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 ## Topological Sort
 |  |
@@ -553,6 +556,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/VC6378/Leetcode/tree/master/0048-rotate-image) |
+| [0241-different-ways-to-add-parentheses](https://github.com/VC6378/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/VC6378/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VC6378/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/VC6378/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -619,4 +623,8 @@
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/VC6378/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/VC6378/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
