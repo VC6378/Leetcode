@@ -63,6 +63,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/VC6378/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/VC6378/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1876-map-of-highest-peak](https://github.com/VC6378/Leetcode/tree/master/1876-map-of-highest-peak) |
+| [2107-find-unique-binary-string](https://github.com/VC6378/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/VC6378/Leetcode/tree/master/2145-grid-game) |
 | [2227-sum-of-subarray-ranges](https://github.com/VC6378/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/VC6378/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -110,6 +111,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/VC6378/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/VC6378/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/VC6378/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/VC6378/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2685-first-completely-painted-row-or-column](https://github.com/VC6378/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2755-extra-characters-in-a-string](https://github.com/VC6378/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/VC6378/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -383,6 +385,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/VC6378/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/VC6378/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/VC6378/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/VC6378/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/VC6378/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/VC6378/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/VC6378/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -596,6 +599,7 @@
 | [0131-palindrome-partitioning](https://github.com/VC6378/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/VC6378/Leetcode/tree/master/0216-combination-sum-iii) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/VC6378/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2107-find-unique-binary-string](https://github.com/VC6378/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/VC6378/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Bit Manipulation
 |  |
