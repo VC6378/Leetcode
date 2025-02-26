@@ -64,6 +64,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/VC6378/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/VC6378/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/VC6378/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/VC6378/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/VC6378/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2107-find-unique-binary-string](https://github.com/VC6378/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/VC6378/Leetcode/tree/master/2145-grid-game) |
@@ -334,6 +335,7 @@
 | [1250-longest-common-subsequence](https://github.com/VC6378/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/VC6378/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/VC6378/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/VC6378/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/VC6378/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2755-extra-characters-in-a-string](https://github.com/VC6378/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/VC6378/Leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
