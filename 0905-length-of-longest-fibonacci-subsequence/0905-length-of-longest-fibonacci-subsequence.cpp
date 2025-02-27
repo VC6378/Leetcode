@@ -7,7 +7,7 @@ public:
         for (int i=0;i<arr.size();i++) {
             for (int j=i+1;j<arr.size();j++) {
                 int count=2,num_1=arr[i],num_2=arr[j];
-                while (stt.count(num_1+num_2)) {
+                while (stt.find(num_1+num_2)!=stt.end()) {
                     int sum=num_1+num_2;
                     num_1=num_2;
                     num_2=sum;
