@@ -60,6 +60,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VC6378/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/VC6378/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/VC6378/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/VC6378/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/VC6378/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/VC6378/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/VC6378/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -574,6 +575,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/VC6378/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VC6378/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/VC6378/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/VC6378/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [3643-zero-array-transformation-ii](https://github.com/VC6378/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/VC6378/Leetcode/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 | [3790-fruits-into-baskets-ii](https://github.com/VC6378/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
