@@ -234,6 +234,7 @@
 | [1442-number-of-operations-to-make-network-connected](https://github.com/VC6378/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/VC6378/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/VC6378/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/VC6378/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/VC6378/Leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/VC6378/Leetcode/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Breadth-First Search
@@ -270,6 +271,7 @@
 | [2564-most-profitable-path-in-a-tree](https://github.com/VC6378/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/VC6378/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/VC6378/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/VC6378/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/VC6378/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/VC6378/Leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/VC6378/Leetcode/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
@@ -382,6 +384,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/VC6378/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/VC6378/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/VC6378/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2793-count-the-number-of-complete-components](https://github.com/VC6378/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/VC6378/Leetcode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/VC6378/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/VC6378/Leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
@@ -497,6 +500,7 @@
 | [1442-number-of-operations-to-make-network-connected](https://github.com/VC6378/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/VC6378/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/VC6378/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/VC6378/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
