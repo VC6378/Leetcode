@@ -107,6 +107,7 @@
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/VC6378/Leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/VC6378/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3779-eat-pizzas](https://github.com/VC6378/Leetcode/tree/master/3779-eat-pizzas) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/VC6378/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/VC6378/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -146,6 +147,7 @@
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/VC6378/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3678-design-task-manager](https://github.com/VC6378/Leetcode/tree/master/3678-design-task-manager) |
 | [3699-count-special-subsequences](https://github.com/VC6378/Leetcode/tree/master/3699-count-special-subsequences) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/VC6378/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
 | ------- |
@@ -392,6 +394,7 @@
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/VC6378/Leetcode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/VC6378/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3779-eat-pizzas](https://github.com/VC6378/Leetcode/tree/master/3779-eat-pizzas) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/VC6378/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Ordered Set
 |  |
 | ------- |
