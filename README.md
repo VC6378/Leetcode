@@ -110,6 +110,7 @@
 | [3779-eat-pizzas](https://github.com/VC6378/Leetcode/tree/master/3779-eat-pizzas) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/VC6378/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/VC6378/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3795-zero-array-transformation-iv](https://github.com/VC6378/Leetcode/tree/master/3795-zero-array-transformation-iv) |
 ## Hash Table
 |  |
 | ------- |
@@ -365,6 +366,7 @@
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/VC6378/Leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/VC6378/Leetcode/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3722-sum-of-k-subarrays-with-length-at-least-m](https://github.com/VC6378/Leetcode/tree/master/3722-sum-of-k-subarrays-with-length-at-least-m) |
+| [3795-zero-array-transformation-iv](https://github.com/VC6378/Leetcode/tree/master/3795-zero-array-transformation-iv) |
 ## Graph
 |  |
 | ------- |
