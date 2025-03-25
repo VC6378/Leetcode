@@ -100,6 +100,7 @@
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/VC6378/Leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3639-zero-array-transformation-i](https://github.com/VC6378/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/VC6378/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/VC6378/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/VC6378/Leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3699-count-special-subsequences](https://github.com/VC6378/Leetcode/tree/master/3699-count-special-subsequences) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/VC6378/Leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
@@ -168,6 +169,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VC6378/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/VC6378/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [3430-count-days-without-meetings](https://github.com/VC6378/Leetcode/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/VC6378/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/VC6378/Leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/VC6378/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3779-eat-pizzas](https://github.com/VC6378/Leetcode/tree/master/3779-eat-pizzas) |
