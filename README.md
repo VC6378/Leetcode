@@ -108,6 +108,7 @@
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/VC6378/Leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/VC6378/Leetcode/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3722-sum-of-k-subarrays-with-length-at-least-m](https://github.com/VC6378/Leetcode/tree/master/3722-sum-of-k-subarrays-with-length-at-least-m) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/VC6378/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3750-closest-equal-element-queries](https://github.com/VC6378/Leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/VC6378/Leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/VC6378/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -680,6 +681,7 @@
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/VC6378/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3625-stone-removal-game](https://github.com/VC6378/Leetcode/tree/master/3625-stone-removal-game) |
 | [3699-count-special-subsequences](https://github.com/VC6378/Leetcode/tree/master/3699-count-special-subsequences) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/VC6378/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Quickselect
 |  |
 | ------- |
@@ -723,6 +725,7 @@
 | [2533-bitwise-xor-of-all-pairings](https://github.com/VC6378/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/VC6378/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/VC6378/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/VC6378/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## String Matching
 |  |
 | ------- |
