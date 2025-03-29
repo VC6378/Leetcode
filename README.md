@@ -214,6 +214,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VC6378/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/VC6378/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/VC6378/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/VC6378/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/VC6378/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -250,6 +251,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/VC6378/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/VC6378/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/VC6378/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/VC6378/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/VC6378/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/VC6378/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/VC6378/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -327,6 +329,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VC6378/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/VC6378/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/VC6378/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/VC6378/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -381,6 +384,7 @@
 | [1170-shortest-common-supersequence](https://github.com/VC6378/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/VC6378/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/VC6378/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/VC6378/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/VC6378/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/VC6378/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/VC6378/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
