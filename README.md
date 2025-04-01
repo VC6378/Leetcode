@@ -120,6 +120,7 @@
 | [3795-zero-array-transformation-iv](https://github.com/VC6378/Leetcode/tree/master/3795-zero-array-transformation-iv) |
 | [3797-design-spreadsheet](https://github.com/VC6378/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3799-unique-3-digit-even-numbers](https://github.com/VC6378/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
+| [3832-minimum-cost-to-reach-every-position](https://github.com/VC6378/Leetcode/tree/master/3832-minimum-cost-to-reach-every-position) |
 ## Hash Table
 |  |
 | ------- |
