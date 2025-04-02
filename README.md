@@ -399,6 +399,7 @@
 | [3722-sum-of-k-subarrays-with-length-at-least-m](https://github.com/VC6378/Leetcode/tree/master/3722-sum-of-k-subarrays-with-length-at-least-m) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/VC6378/Leetcode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 | [3795-zero-array-transformation-iv](https://github.com/VC6378/Leetcode/tree/master/3795-zero-array-transformation-iv) |
+| [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/VC6378/Leetcode/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
 ## Graph
 |  |
 | ------- |
@@ -495,6 +496,7 @@
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/VC6378/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/VC6378/Leetcode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 | [3797-design-spreadsheet](https://github.com/VC6378/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/VC6378/Leetcode/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
 ## Counting
 |  |
 | ------- |
@@ -527,6 +529,7 @@
 | [3195-separate-black-and-white-balls](https://github.com/VC6378/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/VC6378/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/VC6378/Leetcode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
+| [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/VC6378/Leetcode/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
 ## Union Find
 |  |
 | ------- |
