@@ -92,6 +92,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/VC6378/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/VC6378/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/VC6378/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/VC6378/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/VC6378/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/VC6378/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/VC6378/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
