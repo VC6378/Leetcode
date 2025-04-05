@@ -1,11 +1,12 @@
 class Solution {
 public:
     int minDistance(string one, string two) {
-        int m=one.size();
-        int n=two.size();
-        vector<vector<int>> dp(m+1,vector<int>(n+1,0));
-        for(int i=1;i<=m;i++){
-            for(int j=1;j<=n;j++){
+        int n=one.size();
+        int m=two.size();
+
+        vector<vector<int>> dp(n+1,vector<int>(m+1,0));
+        for(int i=1;i<=n;i++){
+            for(int j=1;j<=m;j++){
                 if(one[i-1]==two[j-1]){
                     dp[i][j]=1+dp[i-1][j-1];
                 }
@@ -15,7 +16,7 @@ public:
             }
         }
 
-        int len=dp[m][n];
-        return (m+n-2*len);
+        int len = dp[n][m];
+        return (n+m-2*len);
     }
 };
