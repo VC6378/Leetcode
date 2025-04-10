@@ -119,6 +119,7 @@
 | [3750-closest-equal-element-queries](https://github.com/VC6378/Leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/VC6378/Leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/VC6378/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/VC6378/Leetcode/tree/master/3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3779-eat-pizzas](https://github.com/VC6378/Leetcode/tree/master/3779-eat-pizzas) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/VC6378/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/VC6378/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -171,6 +172,7 @@
 | [3678-design-task-manager](https://github.com/VC6378/Leetcode/tree/master/3678-design-task-manager) |
 | [3699-count-special-subsequences](https://github.com/VC6378/Leetcode/tree/master/3699-count-special-subsequences) |
 | [3750-closest-equal-element-queries](https://github.com/VC6378/Leetcode/tree/master/3750-closest-equal-element-queries) |
+| [3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/VC6378/Leetcode/tree/master/3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/VC6378/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/VC6378/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3799-unique-3-digit-even-numbers](https://github.com/VC6378/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
@@ -409,6 +411,7 @@
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/VC6378/Leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/VC6378/Leetcode/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3722-sum-of-k-subarrays-with-length-at-least-m](https://github.com/VC6378/Leetcode/tree/master/3722-sum-of-k-subarrays-with-length-at-least-m) |
+| [3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/VC6378/Leetcode/tree/master/3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/VC6378/Leetcode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 | [3795-zero-array-transformation-iv](https://github.com/VC6378/Leetcode/tree/master/3795-zero-array-transformation-iv) |
 | [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/VC6378/Leetcode/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
