@@ -387,6 +387,7 @@
 | [0131-palindrome-partitioning](https://github.com/VC6378/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/VC6378/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/VC6378/Leetcode/tree/master/0213-house-robber-ii) |
+| [0233-number-of-digit-one](https://github.com/VC6378/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/VC6378/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/VC6378/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/VC6378/Leetcode/tree/master/0322-coin-change) |
@@ -586,6 +587,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/VC6378/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0233-number-of-digit-one](https://github.com/VC6378/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/VC6378/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/VC6378/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [3799-unique-3-digit-even-numbers](https://github.com/VC6378/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
@@ -716,6 +718,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/VC6378/Leetcode/tree/master/0048-rotate-image) |
+| [0233-number-of-digit-one](https://github.com/VC6378/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/VC6378/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/VC6378/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VC6378/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
