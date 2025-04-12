@@ -122,6 +122,7 @@
 | [3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/VC6378/Leetcode/tree/master/3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3778-transform-array-by-parity](https://github.com/VC6378/Leetcode/tree/master/3778-transform-array-by-parity) |
 | [3779-eat-pizzas](https://github.com/VC6378/Leetcode/tree/master/3779-eat-pizzas) |
+| [3785-find-the-number-of-copy-arrays](https://github.com/VC6378/Leetcode/tree/master/3785-find-the-number-of-copy-arrays) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/VC6378/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/VC6378/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/VC6378/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -738,6 +739,7 @@
 | [3625-stone-removal-game](https://github.com/VC6378/Leetcode/tree/master/3625-stone-removal-game) |
 | [3699-count-special-subsequences](https://github.com/VC6378/Leetcode/tree/master/3699-count-special-subsequences) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/VC6378/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3785-find-the-number-of-copy-arrays](https://github.com/VC6378/Leetcode/tree/master/3785-find-the-number-of-copy-arrays) |
 ## Quickselect
 |  |
 | ------- |
