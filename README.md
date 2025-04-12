@@ -119,6 +119,7 @@
 | [3750-closest-equal-element-queries](https://github.com/VC6378/Leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/VC6378/Leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/VC6378/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3776-find-minimum-cost-to-remove-array-elements](https://github.com/VC6378/Leetcode/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/VC6378/Leetcode/tree/master/3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3778-transform-array-by-parity](https://github.com/VC6378/Leetcode/tree/master/3778-transform-array-by-parity) |
 | [3779-eat-pizzas](https://github.com/VC6378/Leetcode/tree/master/3779-eat-pizzas) |
@@ -416,6 +417,7 @@
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/VC6378/Leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/VC6378/Leetcode/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3722-sum-of-k-subarrays-with-length-at-least-m](https://github.com/VC6378/Leetcode/tree/master/3722-sum-of-k-subarrays-with-length-at-least-m) |
+| [3776-find-minimum-cost-to-remove-array-elements](https://github.com/VC6378/Leetcode/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/VC6378/Leetcode/tree/master/3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/VC6378/Leetcode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 | [3795-zero-array-transformation-iv](https://github.com/VC6378/Leetcode/tree/master/3795-zero-array-transformation-iv) |
