@@ -4,7 +4,6 @@ public:
         string s1 = "", s2 = "", s3 = "", s4 = "";
         int k1 = k, k2 = k, k3 = k, k4 = k;
         int n = s.size();
-
         for (int i = 0; i < n; i++) {
             if (s[i] == 'S' && k1 > 0) {
                 s1 += 'N';
