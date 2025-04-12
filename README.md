@@ -175,6 +175,7 @@
 | [3678-design-task-manager](https://github.com/VC6378/Leetcode/tree/master/3678-design-task-manager) |
 | [3699-count-special-subsequences](https://github.com/VC6378/Leetcode/tree/master/3699-count-special-subsequences) |
 | [3750-closest-equal-element-queries](https://github.com/VC6378/Leetcode/tree/master/3750-closest-equal-element-queries) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VC6378/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/VC6378/Leetcode/tree/master/3777-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/VC6378/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/VC6378/Leetcode/tree/master/3797-design-spreadsheet) |
@@ -517,6 +518,7 @@
 | [3591-shift-distance-between-two-strings](https://github.com/VC6378/Leetcode/tree/master/3591-shift-distance-between-two-strings) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/VC6378/Leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/VC6378/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VC6378/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/VC6378/Leetcode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 | [3797-design-spreadsheet](https://github.com/VC6378/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/VC6378/Leetcode/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
@@ -529,6 +531,7 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/VC6378/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/VC6378/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/VC6378/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VC6378/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3778-transform-array-by-parity](https://github.com/VC6378/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
