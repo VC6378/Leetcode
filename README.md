@@ -605,6 +605,7 @@
 | [0233-number-of-digit-one](https://github.com/VC6378/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/VC6378/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/VC6378/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
+| [2050-count-good-numbers](https://github.com/VC6378/Leetcode/tree/master/2050-count-good-numbers) |
 | [3799-unique-3-digit-even-numbers](https://github.com/VC6378/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Topological Sort
 |  |
@@ -740,6 +741,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/VC6378/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/VC6378/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/VC6378/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/VC6378/Leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/VC6378/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2649-count-total-number-of-colored-cells](https://github.com/VC6378/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/VC6378/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
