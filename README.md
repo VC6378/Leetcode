@@ -88,6 +88,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/VC6378/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/VC6378/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/VC6378/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/VC6378/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/VC6378/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/VC6378/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/VC6378/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -163,6 +164,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/VC6378/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/VC6378/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/VC6378/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/VC6378/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/VC6378/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/VC6378/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/VC6378/Leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -711,6 +713,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/VC6378/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/VC6378/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/VC6378/Leetcode/tree/master/2478-longest-nice-subarray) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/VC6378/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/VC6378/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/VC6378/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/VC6378/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
