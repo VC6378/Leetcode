@@ -486,6 +486,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/VC6378/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VC6378/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/VC6378/Leetcode/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/VC6378/Leetcode/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/VC6378/Leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/VC6378/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/VC6378/Leetcode/tree/master/0127-word-ladder) |
