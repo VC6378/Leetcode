@@ -1,11 +1,30 @@
-class Solution {
-public:
-    int numRabbits(vector<int>& nums, int total = 0) {
-        unordered_map <int,int> mpp;
-        for (int i : nums) mpp[i]++;
+#include <unordered_map>
+#include <vector>
+#include <cmath>
+using namespace std;
 
-        for (auto& p : mpp)
-        total += ceil((double)p.second / (p.first + 1)) * (p.first + 1);
+class Solution 
+{
+public:
+    int numRabbits(vector<int>& answers) 
+    {
+        unordered_map<int, int> freq;
+        int total = 0;
+
+        for (int ans : answers) 
+        {
+            freq[ans]++;
+        }
+
+        for (auto& [k, count] : freq) 
+        {
+            int groupSize = k + 1;
+
+            int groups = ceil((double)count / groupSize);
+
+            total += groups * groupSize;
+        }
+
         return total;
     }
 };
