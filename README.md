@@ -76,6 +76,7 @@
 | [2145-grid-game](https://github.com/VC6378/Leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/VC6378/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2227-sum-of-subarray-ranges](https://github.com/VC6378/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [2249-count-the-hidden-sequences](https://github.com/VC6378/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/VC6378/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/VC6378/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/VC6378/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -738,6 +739,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/VC6378/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/VC6378/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/VC6378/Leetcode/tree/master/2145-grid-game) |
+| [2249-count-the-hidden-sequences](https://github.com/VC6378/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/VC6378/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/VC6378/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/VC6378/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
