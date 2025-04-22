@@ -122,6 +122,7 @@
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/VC6378/Leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/VC6378/Leetcode/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3722-sum-of-k-subarrays-with-length-at-least-m](https://github.com/VC6378/Leetcode/tree/master/3722-sum-of-k-subarrays-with-length-at-least-m) |
+| [3738-make-array-non-decreasing](https://github.com/VC6378/Leetcode/tree/master/3738-make-array-non-decreasing) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/VC6378/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3750-closest-equal-element-queries](https://github.com/VC6378/Leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/VC6378/Leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
@@ -391,6 +392,7 @@
 | [1197-parsing-a-boolean-expression](https://github.com/VC6378/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/VC6378/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/VC6378/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [3738-make-array-non-decreasing](https://github.com/VC6378/Leetcode/tree/master/3738-make-array-non-decreasing) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -469,6 +471,7 @@
 | [2509-minimize-xor](https://github.com/VC6378/Leetcode/tree/master/2509-minimize-xor) |
 | [3195-separate-black-and-white-balls](https://github.com/VC6378/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/VC6378/Leetcode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
+| [3738-make-array-non-decreasing](https://github.com/VC6378/Leetcode/tree/master/3738-make-array-non-decreasing) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/VC6378/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3779-eat-pizzas](https://github.com/VC6378/Leetcode/tree/master/3779-eat-pizzas) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/VC6378/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -705,6 +708,7 @@
 | [0503-next-greater-element-ii](https://github.com/VC6378/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VC6378/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2227-sum-of-subarray-ranges](https://github.com/VC6378/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [3738-make-array-non-decreasing](https://github.com/VC6378/Leetcode/tree/master/3738-make-array-non-decreasing) |
 ## Simulation
 |  |
 | ------- |
