@@ -101,6 +101,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/VC6378/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/VC6378/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/VC6378/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2915-count-of-interesting-subarrays](https://github.com/VC6378/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/VC6378/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/VC6378/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/VC6378/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -179,6 +180,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/VC6378/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/VC6378/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/VC6378/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2915-count-of-interesting-subarrays](https://github.com/VC6378/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/VC6378/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/VC6378/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3548-find-the-count-of-good-integers](https://github.com/VC6378/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
@@ -752,6 +754,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/VC6378/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/VC6378/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/VC6378/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2915-count-of-interesting-subarrays](https://github.com/VC6378/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/VC6378/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3591-shift-distance-between-two-strings](https://github.com/VC6378/Leetcode/tree/master/3591-shift-distance-between-two-strings) |
 | [3639-zero-array-transformation-i](https://github.com/VC6378/Leetcode/tree/master/3639-zero-array-transformation-i) |
