@@ -87,6 +87,7 @@
 | [2465-shifting-letters-ii](https://github.com/VC6378/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2478-longest-nice-subarray](https://github.com/VC6378/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/VC6378/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/VC6378/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/VC6378/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/VC6378/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/VC6378/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -733,6 +734,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/VC6378/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/VC6378/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/VC6378/Leetcode/tree/master/2478-longest-nice-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/VC6378/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/VC6378/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/VC6378/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/VC6378/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -881,6 +883,7 @@
 ## Queue
 |  |
 | ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/VC6378/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/VC6378/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Combinatorics
 |  |
@@ -896,4 +899,8 @@
 |  |
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/VC6378/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/VC6378/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
