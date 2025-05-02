@@ -146,6 +146,7 @@
 | [3795-zero-array-transformation-iv](https://github.com/VC6378/Leetcode/tree/master/3795-zero-array-transformation-iv) |
 | [3797-design-spreadsheet](https://github.com/VC6378/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3799-unique-3-digit-even-numbers](https://github.com/VC6378/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
+| [3819-count-covered-buildings](https://github.com/VC6378/Leetcode/tree/master/3819-count-covered-buildings) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/VC6378/Leetcode/tree/master/3832-minimum-cost-to-reach-every-position) |
 ## Hash Table
 |  |
@@ -203,6 +204,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/VC6378/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/VC6378/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3799-unique-3-digit-even-numbers](https://github.com/VC6378/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
+| [3819-count-covered-buildings](https://github.com/VC6378/Leetcode/tree/master/3819-count-covered-buildings) |
 ## Sorting
 |  |
 | ------- |
@@ -225,6 +227,7 @@
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/VC6378/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3778-transform-array-by-parity](https://github.com/VC6378/Leetcode/tree/master/3778-transform-array-by-parity) |
 | [3779-eat-pizzas](https://github.com/VC6378/Leetcode/tree/master/3779-eat-pizzas) |
+| [3819-count-covered-buildings](https://github.com/VC6378/Leetcode/tree/master/3819-count-covered-buildings) |
 ## Tree
 |  |
 | ------- |
