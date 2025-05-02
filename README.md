@@ -433,6 +433,7 @@
 | [0542-01-matrix](https://github.com/VC6378/Leetcode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/VC6378/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/VC6378/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0868-push-dominoes](https://github.com/VC6378/Leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/VC6378/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/VC6378/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/VC6378/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -524,6 +525,7 @@
 | [0443-string-compression](https://github.com/VC6378/Leetcode/tree/master/0443-string-compression) |
 | [0583-delete-operation-for-two-strings](https://github.com/VC6378/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0768-partition-labels](https://github.com/VC6378/Leetcode/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/VC6378/Leetcode/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/VC6378/Leetcode/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/VC6378/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VC6378/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -586,6 +588,7 @@
 | [0443-string-compression](https://github.com/VC6378/Leetcode/tree/master/0443-string-compression) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VC6378/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/VC6378/Leetcode/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/VC6378/Leetcode/tree/master/0868-push-dominoes) |
 | [1894-merge-strings-alternately](https://github.com/VC6378/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/VC6378/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/VC6378/Leetcode/tree/master/2551-apply-operations-to-an-array) |
