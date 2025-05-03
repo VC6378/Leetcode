@@ -149,6 +149,7 @@
 | [3799-unique-3-digit-even-numbers](https://github.com/VC6378/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3819-count-covered-buildings](https://github.com/VC6378/Leetcode/tree/master/3819-count-covered-buildings) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/VC6378/Leetcode/tree/master/3832-minimum-cost-to-reach-every-position) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/VC6378/Leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3841-concatenated-divisibility](https://github.com/VC6378/Leetcode/tree/master/3841-concatenated-divisibility) |
 ## Hash Table
 |  |
@@ -481,6 +482,7 @@
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/VC6378/Leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/VC6378/Leetcode/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 | [3729-unit-conversion-i](https://github.com/VC6378/Leetcode/tree/master/3729-unit-conversion-i) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/VC6378/Leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Greedy
 |  |
 | ------- |
@@ -618,6 +620,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/VC6378/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/VC6378/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/VC6378/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/VC6378/Leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
 | ------- |
@@ -727,6 +730,7 @@
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/VC6378/Leetcode/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 | [3750-closest-equal-element-queries](https://github.com/VC6378/Leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3790-fruits-into-baskets-ii](https://github.com/VC6378/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/VC6378/Leetcode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Monotonic Stack
 |  |
 | ------- |
