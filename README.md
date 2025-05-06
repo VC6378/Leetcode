@@ -74,6 +74,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/VC6378/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/VC6378/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/VC6378/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/VC6378/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/VC6378/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/VC6378/Leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/VC6378/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -746,6 +747,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/VC6378/Leetcode/tree/master/0735-asteroid-collision) |
+| [2048-build-array-from-permutation](https://github.com/VC6378/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/VC6378/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/VC6378/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3625-stone-removal-game](https://github.com/VC6378/Leetcode/tree/master/3625-stone-removal-game) |
