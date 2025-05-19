@@ -6,11 +6,10 @@ public:
         for(int i=0;i<n;i++){
             st.insert(nums[i]);
         }
-        int ans=st.size();
         nums.clear();
         for(auto it:st){
             nums.push_back(it);
         }
-        return ans;
+        return nums.size();
     }
 };
